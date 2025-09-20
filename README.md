@@ -1,13 +1,3 @@
-<br clear="both">
-
-<div align="center">
-  <img height="100" src="https://tonymac129.github.io/assets/logo-B66Qvpsi.png"  />
-</div>
-
-###
-
-<br clear="both">
-
 <h1 align="center">Hey, I'm TonyMac129 👋</h1>
 
 ###
@@ -22,7 +12,7 @@
 
 ###
 
-<h5 align="center">Social links</h5>
+<h4 align="center">Social links</h4>
 
 ###
 
@@ -36,7 +26,7 @@
 
 ###
 
-<h5 align="center">My tech stack</h5>
+<h4 align="center">My tech stack</h4>
 
 ###
 
@@ -64,7 +54,7 @@
 
 ###
 
-<h5 align="center">Embarrassing stats</h5>
+<h4 align="center">Embarrassing stats</h4>
 
 ###
 
