@@ -2,10 +2,6 @@
 
 ###
 
-<p>Welcome to my GitHub profile! You can find my repositories, projects, and contributions here.</p>
-
-###
-
 <div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=tonymac129.tonymac129&left_color=black&right_color=deepskyblue&left_text=Profile%20views"  />
 </div>
